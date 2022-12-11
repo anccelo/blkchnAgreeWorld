@@ -1,4 +1,4 @@
-package com.angelolagreca.agreeworld.entities;
+package com.angelolagreca.agreeworld.entities.chain;
 
 import lombok.Getter;
 import org.slf4j.Logger;
